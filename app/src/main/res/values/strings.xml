@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dragdrop</string>
+    <string name="ganaste">You Win</string>
+
+    <string name="suma">suma</string>
+    <string name="resta">resta</string>
+    <string name="multiplicacion">multiplicacion</string>
+    <string name="divicion">divicion</string>
+
+</resources>
